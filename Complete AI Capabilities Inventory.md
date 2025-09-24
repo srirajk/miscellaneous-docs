@@ -285,6 +285,8 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 ### 4.1 Change-in-Circumstance Workflow Engine
 **Capability**: Orchestrates systematic data propagation across institutional systems when client circumstances change, automatically updating legal entity information, beneficial ownership records, authorized signatory lists, and compliance profiles while maintaining audit trails and triggering appropriate review workflows for material changes
 
+**Capability-s**: Orchestrates systematic data propagation across systems when client circumstances change, maintaining audit trails and triggering review workflows
+
 **Process Mapping**:
 - **Phase Framework**: Phase 4 - Ongoing Management & Servicing
 - **Process Lane**: "Legal Entity Management" and "Related Party Management"
@@ -294,8 +296,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: Medium (workflow automation with system integration)
 **AI Efficiency**: 30-40% reduction in manual data update work (McKinsey 2024: 20-30% productivity gains); high accuracy in change propagation (IBM 2024: 50% validation accuracy increase)
 
+**Efficiency-s**: 30-40% reduction in manual data update work; high accuracy in change propagation (McKinsey 2024; IBM 2024)
+
 ### 4.2 KYC Refresh & Document Lifecycle Optimization
 **Capability**: Applies risk-based analytics to prioritize and optimize periodic compliance refreshes while systematically monitoring client document portfolios for expiry dates and renewal triggers, intelligently scheduling both KYC updates and document collection workflows based on regulatory requirements, risk profile changes, and document expiration timelines to ensure continuous compliance efficiency while minimizing client disruption
+
+**Capability-s**: Applies risk-based analytics to optimize compliance refreshes and monitor document expiry to ensure continuous compliance efficiency
 
 **Process Mapping**:
 - **Phase Framework**: Phase 4 - Ongoing Management & Servicing
@@ -306,8 +312,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: Medium (risk analytics with compliance integration)
 **AI Efficiency**: 40-60% cost reduction vs. continuous monitoring (Harvard Business Review 2024: up to 70% KYC cost reduction; Industry implementations 2024: 40-55% compliance cost reduction); improved accuracy in risk-based prioritization (IBM 2024: 50% validation accuracy increase)
 
+**Efficiency-s**: 40-60% cost reduction vs. continuous monitoring; improved accuracy in risk-based prioritization (Harvard Business Review 2024; IBM 2024)
+
 ### 4.3 Transaction Pre-Validation Engine
 **Capability**: Applies comprehensive pre-execution validation to complex financial transactions by verifying account authority, regulatory compliance, liquidity requirements, and settlement prerequisites before transaction initiation, preventing costly failures, compliance violations, and client service disruptions through intelligent risk assessment and validation workflows
+
+**Capability-s**: Applies comprehensive pre-execution validation to prevent transaction failures, compliance violations, and service disruptions
 
 **Process Mapping**:
 - **Phase Framework**: Phase 4 - Ongoing Management & Servicing
@@ -317,6 +327,8 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 
 **Implementation Complexity**: High (real-time validation across multiple systems)
 **AI Efficiency**: 60-70% reduction in settlement failures (T+1 Settlement May 2024: regulatory mandate driving automation); 80-90% accuracy in compliance validation (T+1 Settlement May 2024: efficiency improvements)
+
+**Efficiency-s**: 60-70% reduction in settlement failures; 80-90% accuracy in compliance validation (T+1 Settlement 2024)
 
 ---
 
