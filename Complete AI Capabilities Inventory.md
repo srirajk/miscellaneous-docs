@@ -17,6 +17,8 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 ### 1.1 Automated Pre-Meeting Intelligence Briefing
 **Capability**: Systematically generates comprehensive prospect intelligence reports through automated analysis of internal institutional data and external market sources, delivering synthesized insights to relationship managers prior to client engagements
 
+**Capability-s**: Generates comprehensive prospect intelligence reports through automated analysis of institutional and market data
+
 **Process Mapping**:
 - **Phase Framework**: Phase 1 - Prospect & Origination
 - **Process Lane**: "Prospect Generation"
@@ -26,8 +28,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: High (requires extensive external data subscriptions and real-time processing)
 **AI Efficiency**: 30-45% time reduction in prospect research (MHC Automation 2024: 40-60% cost reductions; McKinsey 2024: 20-30% productivity gains) - from 2-4 hours to 1.5-2.5 hours per prospect
 
+**Efficiency-s**: 30-45% time reduction in prospect research - from 2-4 hours to 1.5-2.5 hours per prospect (MHC Automation 2024; McKinsey 2024)
+
 ### 1.2 Real-Time Conversation Intelligence (RM Co-Pilot)
 **Capability**: Delivers real-time analytical support during client conversations through intelligent on-screen assistance, providing instant data retrieval, compliance guidance, and strategic prompts to enhance advisory effectiveness
+
+**Capability-s**: Delivers real-time analytical support during client conversations through intelligent assistance and strategic prompts
 
 **Process Mapping**:
 - **Phase Framework**: Phase 1 - Prospect & Origination
@@ -38,8 +44,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: High (requires real-time processing infrastructure and continuous compute resources)
 **AI Efficiency**: Improved meeting effectiveness and reduced follow-up research time (McKinsey 2024: 20-30% productivity gains)
 
+**Efficiency-s**: Improved meeting effectiveness and reduced follow-up research time (McKinsey 2024: 20-30% productivity gains)
+
 ### 1.3 Automated Intelligence Extraction & Structuring
 **Capability**: Systematically processes unstructured client interactions to extract and structure strategic intelligence, creating institutional memory assets that enhance future client engagement and operational coordination
+
+**Capability-s**: Processes unstructured client interactions to extract strategic intelligence and create institutional memory assets
 
 **Process Mapping**:
 - **Phase Framework**: Phase 1 - Prospect & Origination
@@ -50,8 +60,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: Medium (internal data processing with moderate technical requirements)
 **AI Efficiency**: 40-60% reduction in manual note processing time (MHC Automation 2024: 40-60% cost reductions); high accuracy in entity extraction (IBM 2024: 50% validation accuracy increase)
 
+**Efficiency-s**: 40-60% reduction in manual note processing time; high accuracy in entity extraction (MHC Automation 2024; IBM 2024)
+
 ### 1.4 Value Proposition Modeling (Hypothetical Digital Twin)
 **Capability**: Constructs quantitative value propositions through advanced financial modeling and peer benchmarking, creating data-driven business cases for institutional services using prospect-specific simulations
+
+**Capability-s**: Constructs quantitative value propositions through advanced financial modeling and peer benchmarking simulations
 
 **Process Mapping**:
 - **Phase Framework**: Phase 1 - Prospect & Origination
@@ -62,8 +76,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: High (requires sophisticated modeling engines and extensive peer data)
 **AI Efficiency**: 30-50% time reduction in value proposition development (McKinsey 2024: 20-30% productivity gains) - from 8-12 hours to 4-8 hours
 
+**Efficiency-s**: 30-50% time reduction in value proposition development - from 8-12 hours to 4-8 hours (McKinsey 2024)
+
 ### 1.5 Proactive Opportunity Sourcing
 **Capability**: Systematically identifies high-potential prospects through predictive analytics and external trigger event monitoring, enabling proactive engagement before prospects actively seek new wealth management services
+
+**Capability-s**: Identifies high-potential prospects through predictive analytics and trigger event monitoring for proactive engagement
 
 **Process Mapping**:
 - **Phase Framework**: Phase 1 - Prospect & Origination
@@ -74,8 +92,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: High (requires extensive external data monitoring and predictive analytics infrastructure)
 **AI Efficiency**: Significant increase in qualified prospect identification; improved accuracy in opportunity prediction (McKinsey 2024: 20-30% productivity gains)
 
+**Efficiency-s**: Significant increase in qualified prospect identification; improved accuracy in opportunity prediction (McKinsey 2024)
+
 ### 1.6 Institutional Relationship Intelligence Engine
 **Capability**: Leverages institutional relationship intelligence to identify existing client networks and strategic connections, enabling relationship-based prospect engagement through systematic analysis of trustee networks, board affiliations, and beneficial ownership structures captured within the institution's client database
+
+**Capability-s**: Leverages institutional relationship data to identify strategic prospect connections and enable relationship-based engagement
 
 **Process Mapping**:
 - **Phase Framework**: Phase 1 - Prospect & Origination
@@ -86,8 +108,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: Low (uses existing internal data, no external feeds required)
 **AI Efficiency**: Increases conversion rates through relationship-leveraged introductions (leverages existing client network data)
 
+**Efficiency-s**: Increases conversion rates through relationship-leveraged introductions
+
 ### 1.7 Document-Driven IPS Assembly
 **Capability**: Systematically generates comprehensive Investment Policy Statements by structuring client consultation data, strategic objectives, and risk parameters into standardized institutional documentation, eliminating manual IPS drafting while ensuring regulatory compliance and strategic alignment
+
+**Capability-s**: Automatically generates comprehensive Investment Policy Statements from client consultation data and strategic objectives
 
 **Process Mapping**:
 - **Phase Framework**: Phase 1 - Prospect & Origination
@@ -98,12 +124,16 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: Medium (document generation with compliance integration)
 **AI Efficiency**: Eliminates 3-5 hours per prospect documentation (Investipal 2024: creates IPS in minutes vs. traditional hours) - 200 prospects/year = 600-1,000 hours saved
 
+**Efficiency-s**: Eliminates 3-5 hours per prospect documentation (Investipal 2024: creates IPS in minutes vs. traditional hours)
+
 ---
 
 ## Phase 2: Onboarding & Due Diligence
 
 ### 2.1 Smart Entity Resolution
 **Capability**: Systematically constructs initial client profiles while identifying existing entities and relationships within institutional systems to prevent redundant onboarding and leverage established institutional knowledge
+
+**Capability-s**: Identifies and links existing entities to prevent redundant client creation and enrich profiles with institutional knowledge
 
 **Process Mapping**:
 - **Phase Framework**: Phase 2 - Onboarding & Due Diligence
@@ -114,8 +144,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: Medium (internal data processing and entity matching algorithms)
 **AI Efficiency**: 85-97% accuracy in entity matching (WinPure 2024: 97% match accuracy); 40-60% reduction in duplicate onboarding work (IBM 2024: 80% cycle time reduction; Aseel 2024: 87% onboarding time reduction)
 
+**Efficiency-s**: 85-97% accuracy in entity matching; 40-60% reduction in duplicate onboarding work (WinPure 2024; IBM 2024)
+
 ### 2.2 Interactive Co-Pilot & Document Intelligence Hub
 **Capability**: Orchestrates dynamic onboarding workflows through intelligent workspace guidance and automated document processing, creating customized client engagement experiences while extracting structured data from complex legal documentation
+
+**Capability-s**: Orchestrates dynamic onboarding workflows with customized client engagement experiences and automated document data extraction
 
 **Process Mapping**:
 - **Phase Framework**: Phase 2 - Onboarding & Due Diligence
@@ -125,6 +159,8 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 
 **Implementation Complexity**: High (requires sophisticated document AI and workflow orchestration)
 **AI Efficiency**: 30-50% reduction in document processing time (MHC Automation 2024: 40-60% cost reductions); 80-90% accuracy in data extraction (Essilor 2024: 98% straight-through processing)
+
+**Efficiency-s**: 30-50% reduction in document processing time; 80-90% accuracy in data extraction (MHC Automation 2024; Essilor 2024)
 
 ### 2.3 Proactive Guidance & Validation Engine
 **Capability**: Applies intelligent business rule validation and compliance verification in real-time during onboarding processes, dynamically adjusting requirements and creating automated workflows for complex compliance scenarios
@@ -141,6 +177,8 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 ### 2.4 Verified Client Master Record Construction
 **Capability**: Constructs comprehensive, authoritative client master records through systematic integration of verified data, creating institutional "golden records" that serve as definitive sources of client relationship intelligence
 
+**Capability-s**: Constructs authoritative client master records as institutional 'golden records' for definitive relationship intelligence
+
 **Process Mapping**:
 - **Phase Framework**: Phase 2 - Onboarding & Due Diligence
 - **Process Lane**: "Client Legal Entity" and institutional data integration
@@ -150,8 +188,12 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 **Implementation Complexity**: Medium (data integration and knowledge graph construction)
 **AI Efficiency**: 50-70% reduction in manual data consolidation (IBM 2024: 80% cycle time reduction); high data consistency across systems (IBM 2024: 50% validation accuracy increase)
 
+**Efficiency-s**: 50-70% reduction in manual data consolidation; high data consistency across systems (IBM 2024)
+
 ### 2.5 Document-to-Data Automation
 **Capability**: Intelligently processes complex legal documentation to extract structured client data, automatically populating onboarding systems with verified information from trust deeds, articles of incorporation, beneficial ownership declarations, and regulatory filings while maintaining audit trails and compliance validation
+
+**Capability-s**: Processes complex legal documentation to extract verified data with compliance validation and audit trails
 
 **Process Mapping**:
 - **Phase Framework**: Phase 2 - Onboarding & Due Diligence
@@ -161,6 +203,8 @@ This document catalogs **all 16 AI capabilities** identified in the comprehensiv
 
 **Implementation Complexity**: Medium (document AI with data validation and audit trail requirements)
 **AI Efficiency**: 30-50% reduction in document processing time (MHC Automation 2024: 40-60% cost reductions); 80-90% accuracy in data extraction (Essilor 2024: 98% straight-through processing)
+
+**Efficiency-s**: 30-50% reduction in document processing time; 80-90% accuracy in data extraction (MHC Automation 2024; Essilor 2024)
 
 ---
 
